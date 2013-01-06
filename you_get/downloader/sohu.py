@@ -13,7 +13,7 @@ def real_url(host, prot, file, new):
 
 def sohu_download(url, output_dir = '.', merge = True, info_only = False):
     vid = r1('vid="(\d+)"', get_html(url))
-
+    
     if vid:
         data = json.loads(get_decoded_html('http://hot.vrs.sohu.com/vrs_flash.action?vid=%s' % vid))
         for qtyp in ["oriVid","superVid","highVid" ,"norVid","relativeId"]:
