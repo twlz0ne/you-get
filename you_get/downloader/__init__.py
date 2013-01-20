@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 from .acfun import *
+from .baomihua import*
 from .bilibili import *
 from .cntv import *
 from .dailymotion import *

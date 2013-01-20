@@ -21,6 +21,7 @@ Fork me on GitHub: <https://github.com/soimort/you-get>
 * Tudou (土豆) <http://www.tudou.com>
 * YinYueTai (音悦台) <http://www.yinyuetai.com>
 * AcFun <http://www.acfun.tv>
+* baomihua（爆米花）<http://video.baomihua.com>
 * bilibili <http://www.bilibili.tv>
 * CNTV (中国网络电视台) <http://www.cntv.cn>
 * ifeng (凤凰视频) <http://v.ifeng.com>
@@ -214,6 +215,7 @@ You-Get基于优酷下载脚本[iambus/youku-lixian](https://github.com/iambus/y
 * 土豆 <http://www.tudou.com>
 * 音悦台 <http://www.yinyuetai.com>
 * AcFun <http://www.acfun.tv>
+* 爆米花 <http://video.baomihua.com>
 * bilibili <http://www.bilibili.tv>
 * CNTV <http://www.cntv.cn>
 * 凤凰视频 <http://v.ifeng.com>

@@ -24,6 +24,7 @@ Supported Sites (As of Now)
 * Tudou (土豆) http://www.tudou.com
 * YinYueTai (音悦台) http://www.yinyuetai.com
 * AcFun http://www.acfun.tv
+* baomihua（爆米花）http://video.baomihua.com
 * bilibili http://www.bilibili.tv
 * CNTV (中国网络电视台) http://www.cntv.cn
 * ifeng (凤凰视频) http://v.ifeng.com

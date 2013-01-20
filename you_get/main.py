@@ -21,6 +21,7 @@ def url_to_module(url):
         '163': netease,
         '56': w56,
         'acfun': acfun,
+        'baomihua': baomihua,
         'bilibili': bilibili,
         'cntv': cntv,
         'dailymotion': dailymotion,
