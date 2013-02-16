@@ -33,6 +33,8 @@ def url_to_module(url):
         'joy': joy,
         'kankanews': bilibili,
         'ku6': ku6,
+        'mixcloud': mixcloud,
+        'nicovideo': nicovideo,
         'pptv': pptv,
         'qq': qq,
         'sina': sina,
@@ -65,3 +67,6 @@ def any_download_playlist(url, output_dir = '.', merge = True, info_only = False
 
 def main():
     script_main('you-get', any_download, any_download_playlist)
+
+if __name__ == "__main__":
+    main()
