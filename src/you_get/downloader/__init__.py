@@ -5,12 +5,15 @@ from .baomihua import*
 from .bilibili import *
 from .cntv import *
 from .dailymotion import *
+from .douban import *
 from .facebook import *
 from .googleplus import *
 from .ifeng import *
 from .iqiyi import *
 from .joy import *
+from .jpopsuki import *
 from .ku6 import *
+from .miomio import *
 from .mixcloud import *
 from .netease import *
 from .nicovideo import *
