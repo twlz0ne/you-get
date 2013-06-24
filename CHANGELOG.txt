@@ -1,6 +1,30 @@
 Changelog
 =========
 
+0.3.9
+-----
+
+*Date: 2013-04-12*
+
+* Add support for:
+    - Freesound
+
+0.3.8
+-----
+
+*Date: 2013-04-05*
+
+* Add support for:
+    - Coursera
+
+0.3.7
+-----
+
+*Date: 2013-03-29*
+
+* Add support for:
+    - Baidu
+
 0.3.6
 -----
 

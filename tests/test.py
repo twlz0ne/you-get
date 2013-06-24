@@ -12,9 +12,9 @@ def test_urls(urls):
 
 class YouGetTests(unittest.TestCase):
     
-    def test_blip(self):
+    def test_freesound(self):
         test_urls([
-            "http://blip.tv/clojure/sam-aaron-programming-music-with-overtone-5970273",
+            "http://www.freesound.org/people/Corsica_S/sounds/184419/",
         ])
         
     def test_googleplus(self):
@@ -37,11 +37,6 @@ class YouGetTests(unittest.TestCase):
             "http://www.mixcloud.com/beatbopz/beat-bopz-disco-mix/",
             "http://www.mixcloud.com/beatbopz/tokyo-taste-vol4/",
             "http://www.mixcloud.com/DJVadim/north-america-are-you-ready/",
-        ])
-        
-    def test_vid48(self):
-        test_urls([
-            "http://vid48.com/watch_video.php?v=KXUSG8169U41",
         ])
         
     def test_vimeo(self):
