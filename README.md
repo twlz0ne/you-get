@@ -19,6 +19,7 @@ Fork me on GitHub: <https://github.com/soimort/you-get>
 * Dailymotion <http://dailymotion.com>
 * Facebook <http://facebook.com>
 * Google+ <http://plus.google.com>
+* Google Drive <http://docs.google.com>
 * Tumblr <http://www.tumblr.com>
 * Xtube <http://www.xtube.com>
 * Vine <http://vine.co>
@@ -49,6 +50,7 @@ Fork me on GitHub: <https://github.com/soimort/you-get>
 * 56 (56网) <http://www.56.com>
 * Xiami (虾米) <http://www.xiami.com>
 * Baidu (百度音乐) <http://music.baidu.com>
+* SongTaste <http://www.songtaste.com>
 
 ## Dependencies
 
@@ -235,6 +237,7 @@ You-Get基于优酷下载脚本[iambus/youku-lixian](https://github.com/iambus/y
 * Dailymotion <http://dailymotion.com>
 * Facebook <http://facebook.com>
 * Google+ <http://plus.google.com>
+* Google Drive <http://docs.google.com>
 * Tumblr <http://www.tumblr.com>
 * Xtube <http://www.xtube.com>
 * Vine <http://vine.co>
@@ -265,7 +268,7 @@ You-Get基于优酷下载脚本[iambus/youku-lixian](https://github.com/iambus/y
 * 56网 <http://www.56.com>
 * 虾米 <http://www.xiami.com>
 * 百度音乐 <http://music.baidu.com>
-
+* SongTaste <http://www.songtaste.com>
 
 ## 依赖
 

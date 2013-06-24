@@ -22,6 +22,7 @@ Supported Sites (As of Now)
 * Dailymotion http://dailymotion.com
 * Facebook http://facebook.com
 * Google+ http://plus.google.com
+* Google Drive http://docs.google.com
 * Tumblr http://www.tumblr.com
 * Xtube http://www.xtube.com
 * Vine http://vine.co
@@ -52,6 +53,7 @@ Supported Sites (As of Now)
 * 56 (56网) http://www.56.com
 * Xiami (虾米) http://www.xiami.com
 * Baidu (百度音乐) http://music.baidu.com
+* SongTaste http://www.songtaste.com
 
 Dependencies
 ------------
